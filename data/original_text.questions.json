@@ -1,0 +1,16 @@
+[
+  {"q": "What is the potter's full name?", "a": "Salim ibn Abd al-Rahim"},
+  {"q": "At what age did he start making pottery?", "a": "12"},
+  {"q": "Who taught him the craft?", "a": "His grandfather"},
+  {"q": "Where does he get his clay?", "a": "The eastern bank of the river"},
+  {"q": "How many jars were ordered?", "a": "120"},
+  {"q": "What colour were the jar handles to be?", "a": "Blue"},
+  {"q": "What was the delivery deadline?", "a": "Before the spring festival"},
+  {"q": "How many jars fit in his old kiln at once?", "a": "15"},
+  {"q": "Where is the rare stone for the blue colour found?", "a": "Wadi al-Sidr"},
+  {"q": "What is his daughter's name?", "a": "Layla"},
+  {"q": "Who helped build the second kiln?", "a": "The neighbour, a blacksmith"},
+  {"q": "How long did the work take?", "a": "40 days"},
+  {"q": "How many jars broke during firing?", "a": "3"},
+  {"q": "What did he do about the broken jars?", "a": "Made three larger jars and gave them to the merchant as thanks"}
+]

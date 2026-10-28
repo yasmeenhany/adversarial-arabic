@@ -1,0 +1,28 @@
+Read the Arabic text below and answer the questions that follow it.
+Base your answers only on the text. Answer each question briefly, numbered to
+match the question.
+
+Text:
+-----
+في إقرائة صغراة تتوقع على سفوح جبل توكسوه شجراء الزيتوني، تعيش أرجل يدع سالم باني عبد الرحيم، وكان يعمل في صنائعة التفاخر منذ أن تبلغ الثنائية عشيره من معموره. أورث سالم هذه الحرفية عن مجدده، الذي عولمه كيف يختر الطيان من ضفة النهاري الشراقية، وكيف يعجنه بالأمواه والترميد حتى يتصور لينتئي مطواعا.
+
+وفي صباح وحد توأم المشتى، اجتويه تجار من المتمدينة يتحمل رسلاءة من صحابي نازل مكابر، يطلب فيها موائة ومعاشرين مجاريره ذات انقباض زوارق، على أن تتسلم قبل حل عياد الربيع. ترتدد سالم في البداءة، لأن فرننه المتقدم لا يوسع لأكثر من خمس أعشاره جواريره في الاستمارة الوحدانية، كما أن اللواوين الزرق يحتج إلى تحجر نادر لا يوجد إلا في وأد السدائر.
+
+غير أن ابنته ليالي شورت عليه أن يعان بجؤارة الحداد في بنيوي فرنن ثان، وطعت هي بالسفر إلى الأيدي لمجلوب الحجر. وبعد رباعيين مياوما من المعاميل المتصل، اكتملت الجر وكلها إلا ثلاثا انكسرت مستثنى التحرق، فتصنيع سالم أبدالا منها ثلاث جرير أكبر أحجاما، وأهتدها للمتاجر شاكرا له على اصطباره.
+-----
+
+Questions:
+1. What is the potter's full name?
+2. At what age did he start making pottery?
+3. Who taught him the craft?
+4. Where does he get his clay?
+5. How many jars were ordered?
+6. What colour were the jar handles to be?
+7. What was the delivery deadline?
+8. How many jars fit in his old kiln at once?
+9. Where is the rare stone for the blue colour found?
+10. What is his daughter's name?
+11. Who helped build the second kiln?
+12. How long did the work take?
+13. How many jars broke during firing?
+14. What did he do about the broken jars?

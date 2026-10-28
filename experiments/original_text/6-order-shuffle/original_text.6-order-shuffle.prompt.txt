@@ -1,0 +1,28 @@
+Read the Arabic text below and answer the questions that follow it.
+Base your answers only on the text. Answer each question briefly, numbered to
+match the question.
+
+Text:
+-----
+جبل أشجار الزيتون تكسوه سفح تقع في على قرية صغيرة، يدعى عبد بن سالم عاش رجل الرحيم، في صناعة عمره من الثانية يعمل منذ الفخار بلغ وكان عشرة أن. هذه الحرفة سالم عن جده ورث، من النهر كيف الشرقية يختار علمه الطين الذي ضفة، بالماء وكيف حتى والرماد لينا مطواعا يعجنه يصير.
+
+أحد صباح الشتاء وفي أيام، جاءه المدينة صاحب من كبير نزل يحمل من رسالة تاجر، ذات زرقاء مئة فيها وعشرين يطلب جرة مقابض، على حلول الربيع تسلم أن عيد قبل. في البداية سالم تردد، يتسع المرة فرنه جرة لا لأن في خمس لأكثر من عشرة القديم الواحدة، السدر إلى في نادر أن حجر يحتاج يوجد كما الأزرق لا وادي اللون إلا.
+
+أن في ابنته أن فرن بناء ليلى غير بجاره أشارت يستعين عليه الحداد ثان، هي لجلب الوادي بالسفر الحجر وتطوعت إلى. وبعد يوما أربعين المتواصل من العمل، إلا أثناء الجرار كلها الحرق ثلاثا اكتملت انكسرت، بدلا حجما فصنع أكبر ثلاث سالم جرار منها، شكرا للتاجر له على صبره وأهداها.
+-----
+
+Questions:
+1. What is the potter's full name?
+2. At what age did he start making pottery?
+3. Who taught him the craft?
+4. Where does he get his clay?
+5. How many jars were ordered?
+6. What colour were the jar handles to be?
+7. What was the delivery deadline?
+8. How many jars fit in his old kiln at once?
+9. Where is the rare stone for the blue colour found?
+10. What is his daughter's name?
+11. Who helped build the second kiln?
+12. How long did the work take?
+13. How many jars broke during firing?
+14. What did he do about the broken jars?
